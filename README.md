@@ -1,4 +1,4 @@
-# Rohit (Ryan) Vartak
+# Rohit Vartak
 
 ## 👋 About Me
 I am a second-year M.S. in Computer Science student at Duke University.
