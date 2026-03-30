@@ -1,16 +1,18 @@
-## Hi there 👋
+# Rohit (Ryan) Vartak
 
-<!--
-**Rohit01-zoey/Rohit01-zoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+I am a second-year M.S. in Computer Science student at Duke University.
 
-Here are some ideas to get you started:
+My research focuses on **reasoning, robustness, and efficiency in large language models (LLMs)**. I am particularly interested in understanding how models reason, improving that reasoning process, and ensuring scalability in real-world settings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I will be joining MBZUAI as a **Research Assistant (May 2026 – )**, where I will be advised by Prof. Praneeth Vepakomma.
+
+---
+
+## 🔬 Research Interests
+- Reasoning in Large Language Models (LLMs)
+- Parameter-Efficient Fine-Tuning (PEFT)
+- Federated Learning for LLMs
+- Multimodal Reasoning (Vision + Language)
+
+---
